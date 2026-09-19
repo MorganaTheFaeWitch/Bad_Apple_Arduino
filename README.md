@@ -1,4 +1,4 @@
-# Bad Apple on Arduino UNO Rf4 wifi. 
+# Bad Apple on Arduino UNO R4 wifi. 
 Hi, This is a funny little project to play bad apple on an arduino UNO R4 WIFI. 
 
 How to run:
